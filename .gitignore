@@ -1,0 +1,11 @@
+# Output directories
+outputDataCsv/
+outputDataExcel/
+
+# Source data
+data/
+images/
+
+# Generated files
+*.csv
+*.xlsx
